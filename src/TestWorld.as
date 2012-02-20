@@ -27,7 +27,7 @@ package
 			var r:Render = new Render();
 			addChild(r);
 			r.makeRenders();
-			addEventListener(Event.ADDED_TO_STAGE, init);
+			//addEventListener(Event.ADDED_TO_STAGE, init);
 		}
 		public function init(e:Event):void
 		{

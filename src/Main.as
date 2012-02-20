@@ -24,7 +24,7 @@ package
 			stage.scaleMode = "noScale";
 			
 			addChild(new TestWorld());
-			addChild(new Stats());
+			//addChild(new Stats());
 		}
 		
 	}
