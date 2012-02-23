@@ -1,0 +1,1 @@
+Depth-Sort trees. Draw trees layer by layer or spread them out so they don't coincide. And draw ones farther away from the center first.
